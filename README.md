@@ -1,33 +1,77 @@
-# Yacht-Jet 🛥️
+# Yacht Jet 🛥️
 
-A landing page for a premium yacht rental service.
+A sleek landing page for a premium yacht rental service.
 
-🌐 [Live Demo](https://kostiantyn-spyrydonov.github.io/Yacht-Jet/)
+🌐 **[Live Demo](https://kostiantyn-spyrydonov.github.io/yacht-jet/)**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ## 📌 About
 
-Team project from GoIT course. A responsive landing page for a luxury yacht
-rental company.
+A luxury-focused landing page for yacht rental services, featuring elegant
+design and smooth user interactions.
 
-## 🛠 Technologies
+## 🚀 Key Features
 
-- HTML5
-- CSS3
-- JavaScript
-- Vite
+- **Hero Section** — Eye-catching intro with call-to-action
+- **Yacht Catalog** — Browse available vessels
+- **Booking Flow** — Streamlined rental inquiry process
+- **Responsive Design** — Optimized for all screen sizes
 
-## 👤 My Role
+## 🛠 Tech Stack
 
-**Scrum Master** — team coordination, workflow organization.
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Build Tool:** Vite
 
-**Developer** — social media links component (used in Header & Footer).
+## 👨‍💼 My Role
 
-## 👥 Team
+### Scrum Master
 
-This project was built by a team of 10 developers.
+Coordinated team workflow for a team of 10 developers.
 
-🔗 [Original Repository](https://github.com/BulatovaTati/Yacht-Jet)
+**Key Responsibilities:**
+
+- **Team Coordination:** Organized task distribution and tracked progress
+- **Component Development:** Built the social media links component (integrated
+  into Header & Footer)
+
+## 🚀 Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Kostiantyn-Spyrydonov/yacht-jet.git
+```
+
+2. Navigate to project folder:
+
+```bash
+cd yacht-jet
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start development server:
+
+```bash
+npm run dev
+```
+
+5. Open in browser:
+
+```
+http://localhost:5173
+```
 
 ---
 
-> 💡 _Commit history is from my previous GitHub account._
+> 💡 _Note: This is a fork of the
+> [original project](https://github.com/BulatovaTati/Yacht-Jet). Commits are
+> linked to my previous GitHub account._
