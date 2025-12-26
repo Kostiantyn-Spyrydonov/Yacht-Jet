@@ -1,7 +1,26 @@
-🌊🚤 YachtJet 😁🌴
-Technologies Used: HTML, CSS, JS, Vite
+# Yacht-Jet 🛥️✈️
 
-Project Type: Team Collaboration
+Лендінг для компанії з оренди яхт та приватних літаків.
 
-As the Team Lead, I was at the helm of the technical development, guiding the team through the complexities of the project. 
-The role required a deep understanding of cutting-edge technologies and the ability to seamlessly integrate them into a cohesive and innovative solution.
+🌐 [Переглянути демо](https://kostiantyn-spyrydonov.github.io/Yacht-Jet/)
+
+## 📌 Про проєкт
+
+Командний проєкт з курсу GoIT. Адаптивна верстка лендінгу для преміум-сервісу оренди яхт.
+
+## 🛠 Технології
+
+- HTML5
+- CSS3
+- JavaScript
+- Vite
+
+## 👤 Моя роль
+
+**Scrum Master** — організація роботи команди, секція соціальних мереж.
+
+> 📝 Коміти зроблені з мого попереднього акаунту Kostiantyn-Spyrydonov-old-git .
+
+## 🔗 Посилання
+
+- [Оригінальний репозиторій](https://github.com/BulatovaTati/Yacht-Jet)
