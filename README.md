@@ -1,29 +1,33 @@
-# Yacht-Jet 🛥️✈️
+# Yacht-Jet 🛥️
 
-Лендінг для компанії з оренди яхт та приватних літаків.
+A landing page for a premium yacht rental service.
 
-🌐 [Переглянути демо](https://kostiantyn-spyrydonov.github.io/Yacht-Jet/)
+🌐 [Live Demo](https://kostiantyn-spyrydonov.github.io/Yacht-Jet/)
 
-## 📌 Про проєкт
+## 📌 About
 
-Командний проєкт з курсу GoIT. Адаптивна верстка лендінгу для преміум-сервісу
-оренди яхт.
+Team project from GoIT course. A responsive landing page for a luxury yacht
+rental company.
 
-## 🛠 Технології
+## 🛠 Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 - Vite
 
-## 👤 Моя роль
+## 👤 My Role
 
-**Scrum Master** — організація роботи команди, компонент соціальних мереж.
+**Scrum Master** — team coordination, workflow organization.
 
-> 📝 > 📌 _Історія комітів з акаунту
-> [@Kostiantyn-Spyrydonov-old-git](https://github.com/Kostiantyn-Spyrydonov-old-git)
-> — мій попередній профіль._
+**Developer** — social media links component (used in Header & Footer).
 
-## 🔗 Посилання
+## 👥 Team
 
-- [Оригінальний репозиторій](https://github.com/BulatovaTati/Yacht-Jet)
+This project was built by a team of 10 developers.
+
+🔗 [Original Repository](https://github.com/BulatovaTati/Yacht-Jet)
+
+---
+
+> 💡 _Commit history is from my previous GitHub account._
